@@ -3,6 +3,17 @@
  * Use this file to override Materialize files so you can update
  */
 
+ .icog-theme
+ {
+   background-color:#ff6f00;
+   color: #ffffff; 
+ }
+
+ .icog-theme li 
+ {
+   
+ }
+
 .icon-block {
   padding: 0 15px;
 }
