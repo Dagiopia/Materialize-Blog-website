@@ -64,3 +64,10 @@ div#slider figure {
   font-size: 0;
   animation: 20s slidy infinite;
 }
+
+a {
+  color: #ff6f00;
+}
+a:hover {
+  color: #333;
+}
