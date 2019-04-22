@@ -64,3 +64,18 @@ div#slider figure {
   font-size: 0;
   animation: 20s slidy infinite;
 }
+
+a {
+  color: #ff6f00;
+}
+a:hover {
+  color: #333;
+}
+
+#nav-mobile {
+  background-color: #ff6f00;
+}
+
+#nav-mobile > li > a {
+  color: #fff;
+}
