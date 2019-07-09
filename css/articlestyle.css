@@ -1,0 +1,35 @@
+.article-post-header {
+  font-size: 24px;
+  font-weight: 700;
+  color: hsla(242, 11%, 28%, 1);
+}
+.headerflair {
+  width: 75px;
+  height: 3px;
+  background-color: hsla(23, 96%, 71%, 0.7);
+}
+.post-card {
+  width: 800px;
+  box-shadow: 0 1px 3px hsla(0, 0%, 0%, 0.2);
+  padding: 0 16px 24px 16px;
+  margin: 14px 0;
+}
+
+.articlepreview {
+  padding-right: 38px;
+}
+
+.articles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.read-more {
+  border: 1px solid hsla(35, 8%, 57%, 1);
+  border-radius: 5px;
+  padding: 5px 8px 5px 8px;
+}
+.meta-data {
+  margin: 16px 0;
+}
